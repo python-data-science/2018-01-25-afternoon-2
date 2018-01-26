@@ -1,4 +1,4 @@
-# 2018-01-25-afternoon-2
+# 2018-01-26-morning
 
 ### Data
 - Training data: https://github.com/ga-students/DS_HK_1/blob/gh-pages/data/class/lemonsClassificationData/lemon_training.csv
